@@ -12,6 +12,11 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+
+      fontFamily: {
+        epilogue: ['"Epilogue"', "sans-serif"],
+        clash: ['"Clash Display"', "sans-serif"],
+      },
     },
   },
   plugins: [],
