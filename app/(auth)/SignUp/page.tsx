@@ -19,7 +19,7 @@ const SignUp = () => {
   };
 
   return (
-    <div className="">
+    <div className="flex flex-col  px-4  lg:flex-row justify-between">
       {/* The mobile Header */}
       <div className="mt-3 flex-1 flex-row items-center justify-between  sticky top-0 z-10 pt-4 ">
         <div className="relative ">
